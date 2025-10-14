@@ -370,6 +370,7 @@ export class IRCClient {
     "message-tags",
     "server-time",
     "echo-message",
+    "znc.in/self-message",
     "userhost-in-names",
     "draft/chathistory",
     "draft/extended-isupport",

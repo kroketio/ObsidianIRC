@@ -31,6 +31,7 @@ ObsidianIRC is a modern IRC client with extensive [IRCv3](https://ircv3.net/) su
 - **Rich Message Tags** (`message-tags`, `account-tag`) - Enhanced message metadata
 - **Server Time** (`server-time`) - Accurate timestamps for all messages
 - **Echo Messages** (`echo-message`) - See your own messages as the server sees them
+- **Self Messages** (`znc.in/self-message`) - See your own messages sent from other clients currently connected to your account
 - **SASL Authentication** (`sasl`) - Secure authentication before connection completes
 
 #### Advanced Features
